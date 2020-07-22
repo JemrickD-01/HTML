@@ -1,0 +1,41 @@
+HTML stands for Hyper Text Markup Language which is used to describe the structure of the web page.
+HTML is written in file with extension .htm and .html.
+HTML is markup language.
+Markups are used in the html page to mark the contents.
+Client request for html page and then the server respond by sending the html page to client.
+Client Browser understands how to interpret html and display the content.
+Structure of html page:
+html
+  head
+    meta
+    title
+  Body
+    h1, p
+Head tag describe about the page and body tag describe the content of the page.
+Content in the body tag is displayed on the browser.
+HTML Boilerplate code is used as a starting point to start developing the page.
+
+*****HTML Tags:*****
+Headings - <h1> to <h6>
+Paragraph - <p>
+Comments - <!--Your Comments here -->
+Horizontal tag - <hr>
+Line Breaks - <br>
+Strong - <strong>
+Emphasis - <em>
+Underline - <u>
+Italics - <i>
+Pre - <pre>
+Code - <code>
+Definitions - <dl>,<dt>,<dd>
+Ordered List - <ol>,<li>
+Unordered List - <ul>, <li>
+Link tags - <a>
+Section and Article - 
+	<section>
+	  <article>
+	     <header></header>
+	     <p> article content </p>
+	     <footer></footer>
+	  </article>
+	</section>
