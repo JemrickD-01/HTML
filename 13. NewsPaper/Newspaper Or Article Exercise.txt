@@ -1,0 +1,6 @@
+Exercise: Create a News or an Article page
+
+*Take and News/Blog/Article from any source page and convert it into a html Page.
+
+You may use this blog for a topic:
+https://www.huffpost.com/
